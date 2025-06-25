@@ -1,0 +1,19 @@
+{
+  "modules": [
+    {
+      "module": "Introduction", 
+      "time": "40 seconds",
+      "script": "Hello everyone, welcome to our exciting session on Thermodynamics — the science that explains how heat and energy interact in the world around us. Think about this — have you ever noticed your hot cup of tea slowly cooling down? That’s Thermodynamics happening right before your eyes. It helps us understand everyday phenomena — how engines run, how ice melts, and even how sunlight warms your skin. So buckle up, because by the end of this series, you’ll understand exactly how energy shapes everything around us."
+    },
+    {
+      "module": "System and Surroundings",
+      "time": "40 seconds",
+      "script": "Let’s break it down further. In Thermodynamics, we talk about a System, which is the specific part we focus on, and the Surroundings, which is everything else. Systems can be open, like boiling water in a pan where heat and steam escape, closed, like water sealed in a bottle where only heat moves, or isolated, like tea in a thermos where almost no heat escapes. Then, we explore Processes — the different ways a system can change. For example, Isothermal means constant temperature, like melting ice; Adiabatic means no heat exchange, like compressing air in a pump; Isobaric means constant pressure, like heating water on the stove; and Isochoric means constant volume, like an explosion inside a rigid container. Understanding these helps us predict how systems behave."
+    },
+    {
+      "module": "Heat, Work, and Internal Energy",
+      "time": "60 seconds",
+      "script": "Energy in a system moves in two main ways — Heat and Work. Heat flows due to a temperature difference, like when you warm your hands near a heater. You can think of Heat as energy on the move because of temperature gaps. Work occurs when force moves something, such as inflating a bicycle tire, where your effort translates into energy transfer. Inside every system, we have Internal Energy, which is the total microscopic energy — when you pump air into a tire, you can feel it heat up — that’s energy increasing inside the system. Here’s the golden rule — the First Law of Thermodynamics: energy cannot be created or destroyed, only transferred or transformed. The formula is ΔU = Q - W, where ΔU is the change in internal energy, Q is heat added to the system, and W is work done by the system. For example, boiling water in a closed pot increases pressure — energy changes form, but it never disappears."
+    }
+  ]
+}
